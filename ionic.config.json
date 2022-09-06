@@ -1,0 +1,8 @@
+{
+  "name": "test-app-axole",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "75540a92"
+}
